@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Homewrok2</RootNamespace>
+    <AssemblyName>Homewrok2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conversion\ConversionCore\ConversionCatalog.cs" />
+    <Compile Include="Conversion\ConversionCore\ConversionCategory.cs" />
+    <Compile Include="Conversion\ConversionCore\ConversionOption.cs" />
+    <Compile Include="ConsoleUI\EnumMenuHelper.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\ElectricConvertingClasses\AmpereToMilliampereConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\ElectricConvertingClasses\ElectricConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\ElectricConvertingClasses\MilliampereToAmpereConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\ElectricConvertingClasses\MillivoltToVoltConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\ElectricConvertingClasses\VoltToMillivoltConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\HeatConvertingClasses\CalorieToJouleConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\HeatConvertingClasses\HeatConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\HeatConvertingClasses\JouleToCalorieConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\HeatConvertingClasses\JouleToKilocalorieConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\HeatConvertingClasses\KilocalorieToJouleConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\LengthConvertingClasses\CentimeterToMeterConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\LengthConvertingClasses\KilometerToMeterConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\LengthConvertingClasses\LengthConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\LengthConvertingClasses\MeterToCentimeteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\LengthConvertingClasses\MeterToKilometerConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\MemoryConvertingClasses\BitToByteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\MemoryConvertingClasses\ByteToBitConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\MemoryConvertingClasses\GigabyteToMegabyteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\MemoryConvertingClasses\KilobyteToByteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\MemoryConvertingClasses\MegabyteToKilobyteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\MemoryConvertingClasses\MemoryConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TempratureConvertingClasses\CelsiusToFahrenheitConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TempratureConvertingClasses\CelsiusToKelvinConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TempratureConvertingClasses\FahrenheitToCelsiusConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TempratureConvertingClasses\KelvinToCelsiusConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TempratureConvertingClasses\TempratureConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TimeConvertingClasses\DayToHourConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TimeConvertingClasses\HourToMinuteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TimeConvertingClasses\MinuteToSecondConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TimeConvertingClasses\SecondToMinuteConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\TimeConvertingClasses\TimeConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\VolumeConvertingClasses\CubicMeterToLiterConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\VolumeConvertingClasses\LiterToCubicMeterConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\VolumeConvertingClasses\LiterToMilliliterConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\VolumeConvertingClasses\MilliliterToLiterConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\VolumeConvertingClasses\VolumeConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\WeightConvertingClasses\GramToKilogramConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\WeightConvertingClasses\KilogramToGramConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\WeightConvertingClasses\KilogramToTonConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\WeightConvertingClasses\TonToKilogramConverter.cs" />
+    <Compile Include="Conversion\UnitConvertingClasses\WeightConvertingClasses\WeightConverter.cs" />
+    <Compile Include="Conversion\ConversionCore\Converter.cs" />
+    <Compile Include="Conversion\Interfaces\IConverter.cs" />
+    <Compile Include="ConsoleUI\Menu.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homewrok2.csproj|C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\homewrok2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homewrok2.csproj|solutionrelative:homewrok2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\consoleui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\consoleui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\consoleui\\enummenuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\consoleui\\enummenuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\conversioncore\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\conversioncore\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\conversioncore\\conversionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\conversioncore\\conversionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\conversioncore\\conversioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\conversioncore\\conversioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\conversioncore\\conversioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\conversioncore\\conversioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\weightconvertingclasses\\weightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\weightconvertingclasses\\weightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\volumeconvertingclasses\\volumeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\volumeconvertingclasses\\volumeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\tempratureconvertingclasses\\tempratureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\tempratureconvertingclasses\\tempratureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\memoryconvertingclasses\\memoryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\memoryconvertingclasses\\memoryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\lengthconvertingclasses\\lengthconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\lengthconvertingclasses\\lengthconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\heatconvertingclasses\\heatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\heatconvertingclasses\\heatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|c:\\users\\ahmed\\onedrive\\desktop\\homewrok2\\homewrok2\\conversion\\unitconvertingclasses\\electricconvertingclasses\\electricconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAC5AC-0C05-4A47-8E08-67CFEE373686}|Homewrok2\\Homework2.csproj|solutionrelative:homewrok2\\conversion\\unitconvertingclasses\\electricconvertingclasses\\electricconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumMenuHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\ConsoleUI\\EnumMenuHelper.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\ConsoleUI\\EnumMenuHelper.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\ConsoleUI\\EnumMenuHelper.cs",
+              "RelativeToolTip": "Homewrok2\\ConsoleUI\\EnumMenuHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:39:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversionOption.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\ConversionOption.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\ConversionCore\\ConversionOption.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\ConversionOption.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\ConversionCore\\ConversionOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:25:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConversionCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\ConversionCatalog.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\ConversionCore\\ConversionCatalog.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\ConversionCatalog.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\ConversionCore\\ConversionCatalog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:32:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConversionCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\ConversionCategory.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\ConversionCore\\ConversionCategory.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\ConversionCategory.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\ConversionCore\\ConversionCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:31:56.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeightConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\WeightConvertingClasses\\WeightConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\WeightConvertingClasses\\WeightConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\WeightConvertingClasses\\WeightConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\WeightConvertingClasses\\WeightConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:24:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VolumeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\VolumeConvertingClasses\\VolumeConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\VolumeConvertingClasses\\VolumeConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\VolumeConvertingClasses\\VolumeConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\VolumeConvertingClasses\\VolumeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:24:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TempratureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\TempratureConvertingClasses\\TempratureConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\TempratureConvertingClasses\\TempratureConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\TempratureConvertingClasses\\TempratureConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\TempratureConvertingClasses\\TempratureConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:24:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemoryConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\MemoryConvertingClasses\\MemoryConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\MemoryConvertingClasses\\MemoryConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\MemoryConvertingClasses\\MemoryConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\MemoryConvertingClasses\\MemoryConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:24:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LengthConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\LengthConvertingClasses\\LengthConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\LengthConvertingClasses\\LengthConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\LengthConvertingClasses\\LengthConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\LengthConvertingClasses\\LengthConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:23:59.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeatConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\HeatConvertingClasses\\HeatConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\HeatConvertingClasses\\HeatConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\HeatConvertingClasses\\HeatConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\HeatConvertingClasses\\HeatConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:23:51.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElectricConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\ElectricConvertingClasses\\ElectricConverter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\UnitConvertingClasses\\ElectricConvertingClasses\\ElectricConverter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\UnitConvertingClasses\\ElectricConvertingClasses\\ElectricConverter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\UnitConvertingClasses\\ElectricConvertingClasses\\ElectricConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:23:45.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\ConsoleUI\\Menu.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\ConsoleUI\\Menu.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\ConsoleUI\\Menu.cs",
+              "RelativeToolTip": "Homewrok2\\ConsoleUI\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:18:59.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\Converter.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Conversion\\ConversionCore\\Converter.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Conversion\\ConversionCore\\Converter.cs",
+              "RelativeToolTip": "Homewrok2\\Conversion\\ConversionCore\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:16:20.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Program.cs",
+              "RelativeDocumentMoniker": "Homewrok2\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Homewrok2\\Homewrok2\\Program.cs",
+              "RelativeToolTip": "Homewrok2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:38:16.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

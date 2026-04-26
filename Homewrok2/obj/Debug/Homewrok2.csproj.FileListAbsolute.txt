@@ -1,0 +1,8 @@
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\bin\Debug\Homewrok2.exe.config
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\bin\Debug\Homewrok2.exe
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\bin\Debug\Homewrok2.pdb
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\obj\Debug\Homewrok2.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\obj\Debug\Homewrok2.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\obj\Debug\Homewrok2.exe
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\obj\Debug\Homewrok2.pdb
+C:\Users\ahmed\OneDrive\Desktop\Homewrok2\Homewrok2\obj\Debug\Homewrok2.exe.config
